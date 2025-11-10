@@ -33,6 +33,10 @@ This profile showcases automation of demo websites using Playwright with TypeScr
 - [Test_Automation_Practice_Blogspot_Playwright](https://github.com/nyn-aws/Test_Automation_Practice_Blogspot_Playwright)  
   Practice automation for Blogspot, focusing on clean code and coverage.
 
+- [Parabank_Playwright](https://github.com/nyn-aws/Parabank_Playwright)
+  Comprehensive Playwright test automation framework for ParaBank demo application with 21+ end-to-end scenarios covering user registration, account
+  management, transactions, and bill payments.
+
 ---
 
 # Tech Stack
