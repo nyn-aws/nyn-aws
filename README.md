@@ -12,38 +12,40 @@ This profile showcases automation of demo websites using Playwright with TypeScr
 
 ## Projects
 
-- [Restful_Booker_Playwright](https://github.com/nyn-aws/Restful_Booker_Playwright)  
-  Automated API and UI testing for booking systems.
+### [Restful_Booker_Playwright](https://github.com/nyn-aws/Restful_Booker_Playwright)
+Automated API and UI testing for booking systems.
 
-- [Formy_Project_Playwright](https://github.com/nyn-aws/Formy_Project_Playwright)  
-  End-to-end automation of diverse web elements and forms.
+### [Formy_Project_Playwright](https://github.com/nyn-aws/Formy_Project_Playwright)
+End-to-end automation of diverse web elements and forms.
 
-- [E2E_Workflows_Playwright](https://github.com/nyn-aws/E2E_Workflows_Playwright)  
-  Complex workflow automation integrating multiple test scenarios.
+### [E2E_Workflows_Playwright](https://github.com/nyn-aws/E2E_Workflows_Playwright)
+Complex workflow automation integrating multiple test scenarios.
 
-- [SauceDemo_Playwright](https://github.com/nyn-aws/SauceDemo_Playwright)  
-  UI automation for e-commerce flows and user authentication.
+### [SauceDemo_Playwright](https://github.com/nyn-aws/SauceDemo_Playwright)
+UI automation for e-commerce flows and user authentication.
 
-- [Automation_Exercise_Playwright](https://github.com/nyn-aws/Automation_Exercise_Playwright)  
-  Comprehensive exercises covering major web elements and test strategies.
+### [Automation_Exercise_Playwright](https://github.com/nyn-aws/Automation_Exercise_Playwright)
+Comprehensive exercises covering major web elements and test strategies.
 
-- [The_Internet_Playwright](https://github.com/nyn-aws/The_Internet_Playwright)  
-  Automated testing for classic web elements and workflows.
+### [The_Internet_Playwright](https://github.com/nyn-aws/The_Internet_Playwright)
+Automated testing for classic web elements and workflows.
 
-- [Test_Automation_Practice_Blogspot_Playwright](https://github.com/nyn-aws/Test_Automation_Practice_Blogspot_Playwright)  
-  Practice automation for Blogspot, focusing on clean code and coverage.
+### [Test_Automation_Practice_Blogspot_Playwright](https://github.com/nyn-aws/Test_Automation_Practice_Blogspot_Playwright)
+Practice automation for Blogspot, focusing on clean code and coverage.
 
-- [Parabank_Playwright](https://github.com/nyn-aws/Parabank_Playwright)
-  Comprehensive Playwright test automation framework for ParaBank demo application with 21+ end-to-end scenarios covering user registration, account
-  management, transactions, and bill payments.
+### [Parabank_Playwright](https://github.com/nyn-aws/Parabank_Playwright)
+Banking application automation with 21 test scenarios covering user management, accounts, transfers, and bill payments.
 
 ---
 
-# Tech Stack
+## Tech Stack
 
-- **Languages:** TypeScript, Python  
-- **Frameworks:** Playwright, Pytest  
-- **Tools:** Git, GitHub, CI/CD  
-- **Concepts:** End-to-End Testing, API Testing, UI Automation, Data Validation, Cross-Browser Testing
+**Languages:** TypeScript, Python
+
+**Frameworks:** Playwright, Pytest
+
+**Tools:** Git, GitHub, CI/CD
+
+**Concepts:** End-to-End Testing, API Testing, UI Automation, Data Validation, Cross-Browser Testing
 
 ---
